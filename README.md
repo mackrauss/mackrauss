@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about **Data Science and Machine Learning**
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Enjoy biking 🚲 in the city, practising Karate 🥋, and watching Baseball ⚾️ 
+
 <!--
 **mackrauss/mackrauss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
